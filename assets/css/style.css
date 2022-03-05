@@ -1077,6 +1077,10 @@ background-color:#A3BCB6;
 .card-blog .card-body {
   position: relative;
 background-color: #DADED4;
+  height:7vh;
+  display:flex;
+  text-align:center;
+  justify-content:center;
 }
 .card-blog .card-category-box {
   position: absolute;
